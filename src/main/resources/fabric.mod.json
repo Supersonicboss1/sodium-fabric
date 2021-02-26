@@ -9,8 +9,7 @@
   ],
   "contact": {
     "homepage": "https://jellysquid.me",
-    "sources": "https://github.com/jellysquid3/sodium",
-    "issues": "https://github.com/jellysquid3/sodium/issues"
+    "sources": "https://github.com/jellysquid3/sodium"
   },
   "license": "LGPL-3.0-only",
   "icon": "assets/sodium/icon.png",
@@ -18,9 +17,6 @@
   "entrypoints": {
     "client": [
       "me.jellysquid.mods.sodium.client.SodiumClientMod"
-    ],
-    "modmenu": [
-      "me.jellysquid.mods.sodium.client.SodiumModMenu"
     ]
   },
   "custom": {
